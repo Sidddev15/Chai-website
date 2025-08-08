@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <header className="w-full px-6 py-4 flex items-center justify-between bg-white shadow-md fixed top-0 z-50">
       <Link to="/" className="text-2xl font-heading text-brand-accent">
-        Mittichha
+        Assamika
       </Link>
 
       <nav className="hidden md:flex space-x-8 font-body text-brand-dark">
